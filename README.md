@@ -1,5 +1,5 @@
 Discord Tournament Bot
-A work-in-progress Discord bot that organizes and runs tournaments between players. The bot utilizes the OpenAI GPT-3.5-turbo API to determine the outcome of each match between the players.
+A work-in-progress Discord bot that organizes and runs tournaments between players. The bot utilizes the OpenAI GPT-4 API to determine the outcome of each match between the players.
 
 Features
 Players can join the tournament using the !join command.
